@@ -1,1 +1,1 @@
-data mining ödevi için yazdığımız kovid vaka tahmini kodu. bu kod facebook'un prohet kütüphanesi kullanılarak yazılmıştır
+Data mining ödevi için yazdığımız kovid vaka tahmini kodu. Bu kod facebook'un prophet kütüphanesi kullanılarak Eda Sınar ile birlikte yazılmıştır.
