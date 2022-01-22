@@ -1,0 +1,1 @@
+data mining ödevi için yazdığımız kovid vaka tahmini kodu. bu kod facebook'un prohet kütüphanesi kullanılarak yazılmıştır
